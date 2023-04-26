@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "193339667758",
+    "project_id": "firestorelevelup",
+    "storage_bucket": "firestorelevelup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193339667758:android:07fdfc58a44ed462ccf6bf",
+        "android_client_info": {
+          "package_name": "com.example.firestore_level_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193339667758-pb4b49ir0l8u8vepa8khvrkqcrmcp1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxWQG5a-1erGONIN-BHpj3TubAWO1d3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193339667758-pb4b49ir0l8u8vepa8khvrkqcrmcp1l0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193339667758-h0i3afcpiho2j7bmt07n4o5hgede2io9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestoreLevelUp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
